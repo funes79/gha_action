@@ -1,6 +1,6 @@
 #!/bin/sh -l
 
-echo "Hello $1"
+echo "Hello: $1"
 env
 echo "Hello again"
 time=$(date)
